@@ -1,22 +1,22 @@
 Country/Region,Cases,Deaths,Recovered,Active,New Cases
-Dominican Republic,3755,196,215,3344,141
-Panama,3751,103,75,3573,177
-Cuba,862,27,171,664,48
-Costa Rica,642,4,74,564,16
-Honduras,426,35,9,382,7
-Guatemala,196,5,19,172,16
-El Salvador,164,6,33,125,5
-Jamaica,143,5,21,117,18
-Trinidad and Tobago,114,8,20,86,0
-Aruba,95,2,39,54,2
-French Guiana,86,0,51,35,0
-Barbados,75,5,15,55,2
-Cayman Islands,60,1,6,53,6
-Sint Maarten,57,9,12,36,4
-Bahamas,53,8,6,39,4
-Haiti,41,3,0,38,0
-St Martin,35,2,13,20,0
+Dominican Republic,4680,226,363,4091,345
+Panama,4273,120,140,4013,63
+Cuba,1035,34,255,746,49
+Costa Rica,660,5,112,543,5
+Honduras,472,46,15,411,15
+Guatemala,257,7,21,229,22
+El Salvador,201,7,44,150,11
+Jamaica,173,5,27,141,10
+Trinidad and Tobago,114,8,21,85,0
+Aruba,97,2,49,46,1
+French Guiana,96,0,64,32,0
+Barbados,75,5,17,53,0
+Sint Maarten,67,10,12,45,3
+Cayman Islands,61,1,7,53,0
+Bahamas,55,9,10,36,0
+Haiti,47,3,0,44,3
+St Martin,37,2,19,16,0
 Antigua and Barbuda,23,3,3,17,0
 Saint Lucia,15,0,11,4,0
-Curacao,14,1,10,3,0
-Nicaragua,9,1,4,4,0
+Curacao,14,1,11,2,0
+Nicaragua,10,2,6,2,1
