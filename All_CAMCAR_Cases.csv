@@ -1,16 +1,16 @@
-,Province/State,Country/Region,5/23/20,5/24/20
-0,,Dominican Republic,14422,14801
-1,,Panama,10577,10926
-2,,Honduras,3477,3950
-3,,Guatemala,3054,3424
-4,,Cuba,1931,1941
-5,,El Salvador,1819,1915
-6,,Costa Rica,918,930
-7,,Haiti,865,865
-8,,Jamaica,550,552
-9,French Guiana,France,279,328
-10,,Nicaragua,279,279
-11,Cayman Islands,United Kingdom,129,129
+,Province/State,Country/Region,5/25/20,5/26/20
+0,,Dominican Republic,15073,15264
+1,,Panama,11183,11447
+2,,Honduras,4189,4401
+3,,Guatemala,3760,3954
+4,,El Salvador,1983,2042
+5,,Cuba,1947,1963
+6,,Haiti,958,1174
+7,,Costa Rica,951,956
+8,,Nicaragua,279,759
+9,,Jamaica,556,564
+10,French Guiana,France,353,384
+11,Cayman Islands,United Kingdom,134,137
 12,,Trinidad and Tobago,116,116
 13,Aruba,Netherlands,101,101
 14,,Bahamas,100,100
@@ -18,5 +18,5 @@
 16,Sint Maarten,Netherlands,77,77
 17,St Martin,France,40,40
 18,,Antigua and Barbuda,25,25
-19,,Saint Lucia,18,18
-20,Curacao,Netherlands,17,17
+19,Curacao,Netherlands,18,18
+20,,Saint Lucia,18,18
