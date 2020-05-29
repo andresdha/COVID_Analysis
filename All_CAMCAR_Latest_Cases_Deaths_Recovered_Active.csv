@@ -1,21 +1,21 @@
 Country/Region,Cases,Deaths,Recovered,Active,New Cases
-Dominican Republic,15264,468,8534,6262,191
-Panama,11447,313,6379,4755,264
-Honduras,4401,188,493,3720,212
-Guatemala,3954,63,289,3602,194
-El Salvador,2042,36,787,1219,59
-Cuba,1963,82,1709,172,16
-Haiti,1174,33,22,1119,216
-Costa Rica,956,10,634,312,5
-Nicaragua,759,35,370,354,480
-Jamaica,564,9,267,288,8
-French Guiana,384,1,146,237,31
-Cayman Islands,137,1,63,73,3
+Dominican Republic,16068,485,8952,6631,345
+Panama,12131,320,7379,4432,403
+Honduras,4752,196,519,4037,112
+Guatemala,4348,80,565,3703,203
+El Salvador,2194,39,1002,1153,85
+Cuba,1983,82,1734,167,9
+Haiti,1320,34,22,1264,0
+Costa Rica,1000,10,646,344,16
+Nicaragua,759,35,370,354,0
+Jamaica,569,9,284,276,0
+French Guiana,436,1,161,274,30
+Cayman Islands,140,1,67,72,0
 Trinidad and Tobago,116,8,108,0,0
-Aruba,101,3,95,3,0
-Bahamas,100,11,46,43,0
-Barbados,92,7,71,14,0
-Sint Maarten,77,15,59,3,0
+Bahamas,101,11,47,43,1
+Aruba,101,3,98,0,0
+Barbados,92,7,76,9,0
+Sint Maarten,77,15,60,2,0
 St Martin,40,3,33,4,0
 Antigua and Barbuda,25,3,19,3,0
 Curacao,18,1,14,3,0
