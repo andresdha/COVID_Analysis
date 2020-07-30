@@ -1,23 +1,23 @@
 Country/Region,Cases,Deaths,Recovered,Active,New Cases
-Dominican Republic,64156,1083,30204,32869,1248
-Panama,61442,1322,35086,25034,1146
-Guatemala,45309,1761,32455,11093,256
-Honduras,39741,1166,5039,33536,465
-Costa Rica,15841,115,3824,11902,612
-El Salvador,15035,408,7778,6849,405
-French Guiana,7514,42,6047,1425,182
-Haiti,7340,158,4365,2817,25
-Nicaragua,3439,108,2492,839,0
-Cuba,2532,87,2351,94,37
-Jamaica,853,10,714,129,11
-Guyana,389,20,181,188,19
-Bahamas,382,11,91,280,40
+Dominican Republic,66182,1123,33947,31112,1492
+Panama,63269,1374,37316,24579,1046
+Guatemala,47605,1835,34488,11282,1154
+Honduras,40944,1259,5281,34404,484
+Costa Rica,16800,133,4050,12617,456
+El Salvador,15841,430,8071,7340,395
+French Guiana,7647,43,6176,1428,85
+Haiti,7378,159,4467,2752,38
+Nicaragua,3672,116,2492,1064,0
+Cuba,2588,87,2353,148,33
+Jamaica,856,10,724,122,1
+Bahamas,484,11,91,382,37
+Guyana,398,20,185,193,2
 Cayman Islands,203,1,202,0,0
-Trinidad and Tobago,148,8,128,12,1
+Trinidad and Tobago,156,8,128,20,3
 Aruba,119,3,102,14,0
-Sint Maarten,114,15,63,36,0
-Barbados,110,7,94,9,0
-Antigua and Barbuda,86,3,65,18,4
+Sint Maarten,115,15,63,37,1
+Barbados,110,7,95,8,0
+Antigua and Barbuda,91,3,67,21,5
 St Martin,49,3,41,5,0
 Curacao,29,1,24,4,0
 Saint Lucia,24,0,22,2,0
